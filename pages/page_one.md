@@ -10,4 +10,4 @@ A personal example of an open-source software that I would benefit from is Gimp.
 <p>
 From a university perspective, using open-source software is often likely the best option, as it not only gives them the most amount of control over software features, but also allows students researchers to store research data on their own servers. While this obviously requires a lot of resources, it keeps sensitive information out of the hands of larger corporations, which may lead to security breaches out of the university’s control. 
 <p>
-![The beach at Skagen](./assets/images/happy.jpg)
+![The beach at Skagen](./assets/images/Happy.jpg)
