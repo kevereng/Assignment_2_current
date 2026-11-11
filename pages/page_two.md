@@ -11,4 +11,5 @@ There is only one HTML file, index.html. It holds the frame around the text: the
 1. Numbered lists work too
 2. Just start the lines with numbers
 <p>
+
 ![Sad Guy](./assets/images/sad.jpg)
