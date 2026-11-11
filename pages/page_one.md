@@ -15,4 +15,4 @@ From a university perspective, using open-source software is often likely the be
 
 You can also add images from the assets folder:
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+![Happy Guy](./assets/images/Happy.jpg)
