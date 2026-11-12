@@ -21,6 +21,9 @@ body {
   padding: 0;
   margin: 0;
   font-weight: 300;
+
+  background-color: var(--white);
+  color: var(--black);
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
