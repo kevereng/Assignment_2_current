@@ -5,14 +5,12 @@
 
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
-  --white: #ffffff;
-  --black: #000000;
-  --blue: #5899e2;
-  --light-blue: #d6eaff;
-  --green: #9de38c;
-  --purple: #ceaeea;
-  --red: #f22c43;
-  --yellow: #fddd0d;
+  --white: #F7F3E9;      /* Eggshell */
+  --black: #2B1A1A;      /* Dark brown instead of pure black */
+  --burgundy: #6D1F3A;
+  --light-burgundy: #A35C74;
+  --accent: #8C2F4D;
+
   --projectFont: Lexend, Arial, sans-serif;
 }
 
