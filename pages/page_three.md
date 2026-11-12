@@ -1,6 +1,6 @@
 # Page three
 
-## This is the headline of your first page
+## Which open source project would be useful in your major, and why?
 
 This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
 
