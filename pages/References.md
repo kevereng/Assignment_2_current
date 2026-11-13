@@ -12,7 +12,7 @@ GNU. (2025, May 17). Philosophy of the GNU project. https://www.gnu.org/philosop
 noScribe. (n.d.a.). Free interview transcription with AI. https://noscribe.de/en/ 
 </p>
 <p>
-noScribe. (n.d.b.). FAQ. https://noscribe.de/en/docs/faq/ 
+noScribe. (n.d.b.). FAQ. <a href="https://noscribe.de/en/docs/faq/">https://noscribe.de/en/docs/faq/</a>
 </p>
 <p>
 Veritasium. (2026, February 25). The internet was weeks away from disaster and no one knew [Video]. YouTube. https://www.youtube.com/watch?v=aoag03mSuXQ 
