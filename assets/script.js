@@ -77,3 +77,14 @@ if (btnLeft && btnRight) {
   btnLeft.addEventListener("click", (e) => moveCarousel(e, "prev"));
   btnRight.addEventListener("click", (e) => moveCarousel(e, "next"));
 }
+const params = new URLSearchParams(window.location.search);
+const currentPage = params.get("page");
+
+if (currentPage === "References") {
+  document.getElementById("charCount").style.display = "none";
+
+  const referencesLink = document.querySelector(".referencesLink");
+  if (referencesLink) {
+    referencesLink.style.display = "none";
+  }
+}
