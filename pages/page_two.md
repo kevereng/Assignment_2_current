@@ -9,7 +9,7 @@ Looking at the downsides of open-source programs, there is one major obstacle th
 However, even when one can get past the need for Google and Apple’s training wheels, there are several drawbacks to open-source programs. Firstly, as mentioned in the assignment description, they are often created and maintained by individuals or small groups who make little to no money. This means getting fast support, as one would expect from a large corporation, is very unlikely. While this might not be as detrimental to a large organisation like a university, which has the resources to tackle a problem quickly and effectively, for individuals like students, a bug in software requires technical knowledge that is beyond their level of expertise.
 </p>
 <p>
-Furthermore, the attempted Jia Tan Linux hack that we saw in class reveals that even the largest and most developed open-source software is susceptible to hacking. While this issue is not exclusive to open-source software, it does require constant attention from unpaid community members to ensure that they defend against these sorts of attacks.
+Furthermore, the attempted Jia Tan Linux hack that we saw in class reveals that even the largest and most developed open-source software is susceptible to hacking.
 </p>
 
 
